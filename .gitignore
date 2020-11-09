@@ -1,0 +1,15 @@
+# ignore tfstate
+**/**/*.tfstate
+**/**/*.tfstate.*
+
+# ignore .terraform
+
+**/**/.terraform
+
+# ignore tfvars
+
+**/**/*.tfvars
+
+# ignore ssh keys
+
+**/**/*login_key*
